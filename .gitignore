@@ -1,0 +1,19 @@
+# Ignore les fichiers binaires 4D
+*.4DB
+*.4DD
+*.match
+*.journal
+*.idx
+*.4DIndy
+*.4DExternal
+*.log
+Backup/
+DerivedData/
+build/
+/Data
+
+# Pour les projets 4D modernes
+build/
+Logs/
+Settings/Backup/
+Settings/DerivedData/
